@@ -24,6 +24,9 @@ File [IE_Analysis.pbix](https://github.com/VikSil/PowerBI_Public/blob/trunk/Univ
 
 ### Analysis
 
-* On the income side the most notable positive variance comes from "Sales, Services & Trading" line item, with the highest surplus in January (1711%|158.10) and notable surplusses in October (552%|51.01) and March (608%|56.21). The highest shortfall of planned income comes from "Recharges" line item, with the largest shortfall in September (82%|-72.31).
-<p align="center"><img src="https://github.com/VikSil/PowerBI_Public/blob/trunk/University_Department_I%26E/img/01_All_Income.png" title="Income Dashboard" alt="Income Dashboard" width="500"/></p>
+* On the income side, the most notable positive variance comes from "Sales, Services & Trading" line item, with the highest surplus in January (1711% | 158.10) and notable surpluses in October (552% | 51.01) and March (608% | 56.21). Most notable negative variance of income comes from "Recharges" line item, with the largest shortfall in September (-82% | -72.31).
+<p align="center"><img src="https://github.com/VikSil/PowerBI_Public/blob/trunk/University_Department_I%26E/img/01_All_Income.png" title="Income Dashboard" alt="Income Dashboard" width="700"/></p>
+
+* On the expenses side, the most notable positive variance comes from "Equipment Purchases" and "Support Staff" line items. The highest savings in the former occured in November (38% | 93.41) and March (39% | 86.59). On the latter savings occured throughout October to March, with an exception of December, when there was a overexpenditure. Most notable negative variance of expenses comes from "Equipment Repairs and Maintenance" with significant overexpenditure in April (-882% | -127.37). Overexpenditures also occured on "Casual and Agency Staff", "Telecomms" and "Utilities" line items.
+<p align="center"><img src="https://github.com/VikSil/PowerBI_Public/blob/trunk/University_Department_I%26E/img/02_All_Expenses.png" title="Expenses Dashboard" alt="Expenses Dashboard" width="700"/></p>
 
